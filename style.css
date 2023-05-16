@@ -83,6 +83,194 @@ section{
     color: rgb(22, 48, 28);
     font-family: 'EB Garamond', serif;
 }
+.home-content h4{
+    font-size: 33px;
+    margin-top: -53%;
+    color: rgb(22, 48, 28);
+}
+span{
+    color: rgb(117, 165, 29);
+    font-size: 43px;
+}
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    color: #000;
+    font-family: monospace;
+}
+.about-img img{
+    width: 40vw;
+    border-radius:15%;
+    margin-left: 10%;
+    border: 5px solid rgb(32, 58, 15);
+    margin-top: -1%;
+}
+.heading{
+    text-align: center;
+    font-size: 2.5rem;
+}
+.content1{
+    height: 100vh;
+    background-color: rgb(238, 240, 233);
+}
+.about-content h2{
+    text-align: left;
+    line-height: 1.2;
+    margin-left: 35%;
+    margin-top: 10%;
+}
+.about-content p{
+    font-size: 1.5rem;
+    margin: 3rem 0 3rem;
+    margin-left: 10%;
+    color: black;
+    font-family: 'EB Garamond', serif;
+    text-align: justify;
+}
+.contact h2{
+    margin-bottom: 5rem ;
+}
+.contact-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    color: rgb(26, 26, 15);
+}
+.contact-container .contact-box{
+    flex: 1 1 30rem;
+    background: rgb(168, 168, 80);
+    padding: 3rem 2rem 4rem;
+    border-radius: 50%;
+    text-align: center;
+    border: 2rem solid rgb(168, 168, 80);
+    transition: 5s ease;
+}
+.contact-container .contact-box:hover{
+    border-color: rgb(168, 168, 80);
+    transform: scale(1.02);
+}
+.content2{
+    background-color: rgb(221, 241, 179);
+}
+.social-media a{
+ display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 4rem;
+    height: 4rem;
+    background: transparent;
+    border: .2rem solid rgb(148, 148, 41);
+    border-radius: 50%;
+    font-size: 2rem;
+    color: olive;
+    margin: 3rem 1.5rem;
+    margin-top: 10%;
+    box-shadow: 0 0 1rem rgb(20, 20, 12);
+    margin-left: -1%;
+}
+.content4{
+    height: 100vh;
+    background-color: rgb(210, 231, 155);
+}
+.tea{
+    color: #0C1A07;
+    font-size: 50px;
+    margin-top: -50%;
+     margin-left: 40%;
+}
+.tech{
+    margin-left: 5%;
+    font-size: 25px;
+    margin-top: 1%;
+}
+.team-img{
+    display: flex;
+    margin-right: 15%;
+}
+.team-img2{
+    display: flex;
+}
+figure .euni ,.euny{
+    width: 120%;
+    border-radius: 50%;
+    margin-left: 20%;
+}
+figure .grace ,.gire{
+    width: 120%;
+    border-radius: 50%;
+    margin-left: 110%;
+    margin-top: -2%;
+}
+figure .fai{
+    width: 35%;
+    border-radius: 50%;
+    margin-left: 55%;
+}
+figure .nata{
+    width: 50%;
+    border-radius: 50%;
+    margin-left: 40%;
+    margin-top: -10%;
+}
+figure .becky{
+    width: 45%;
+     border-radius: 50%;
+     margin-left: 25%;
+     margin-top: -9%;
+}
+figcaption{
+    margin-left: 63%;
+    color: #080F05;
+    font-size: 20px;
+}
+.footer {
+    background-color: #174405;
+    color: #FFFFFF;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+}
+.footer p {
+    margin: 5px 0;
+    font-size: 25px;
+}
+.footer a {
+    color: #FFFFFF;
+    text-decoration: none;
+    margin: 0 5px;
+}
+.footer a:hover {
+    text-decoration: underline;
+}
+.imarika-logo{
+    margin-left: -90%;
+    margin-top: -10%;
+}
+.cont{
+    margin-left: -40%;
+    margin-top: -20%;
+}
+.infoo{
+    margin-top: -12%;
+    margin-left: 30%;
+}
+.copyright{
+    margin-top: 10%;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
